@@ -3,7 +3,7 @@ services:
     name: profit-master-bot
     runtime: python
     buildCommand: ""
-    startCommand: python main.py
+    startCommand: startCommand: python3 main.py
     envVars:
       - key: BOT_TOKEN
         value: 7833350544:AAGiePi_kvJu6MLGe57Omwq4Ty1xlA1PvoE
